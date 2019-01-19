@@ -1,7 +1,9 @@
 Servers Info
 ----------------------------------------------------------------------------------------------------
 Ip address: 13.233.62.155
+
 SSH port: 2200
+
 complete URL: http://13.233.62.155.xip.io
 
 Installed software and configuration changes
